@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+Welcome to my page!</br>
+I'm Bassam, AI & Azure Architect/Fullstack developer from  Spain, <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"> currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"> Japan.
+
 
 <!--
 **bassamhbj/bassamhbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
